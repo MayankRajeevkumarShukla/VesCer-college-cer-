@@ -1,0 +1,89 @@
+body{
+	font-family: "Nunito Sans", sans-serif;
+}
+/*Navbar*/
+.bit_nav1{
+	margin-left: 290px;
+
+}
+.navbar .navbar-nav .bit_nav{
+text-decoration: none;
+color:#337ab7;
+padding-right:45px;
+letter-spacing: 1px;
+font-family: 'Nunito Sans', sans-serif;
+font-size: 20px;
+}
+.navbar .navbar-nav .bit_nav:after{
+color:#337ab7; 
+background: none repeat scroll 0 0 transparent;
+bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: #337ab7;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+
+.navbar .navbar-nav .bit_nav:hover:after{
+    
+}
+
+.navbar .navbar-brand{
+    color: #337ab7;
+}
+.navbar .navbar-brand:hover{
+    color: #337ab7;
+    
+}
+
+.bit_button{
+	text-decoration: none;
+	color: #F8F9FA;
+    width:90px;
+/*	margin-left:25px;*/
+/*    margin-top: px;*/
+	background-color:#337ab7;
+	font-size: 16px;
+	font-family: 'Nunito Sans', sans-serif;
+	box-shadow: 1px 1px 5px #CEE5F2;
+	border: none;
+    border: 1px solid #337ab7;
+}
+.bit_button:hover{
+	color: #337ab7;
+	background: #F8F9FA;
+	border: 1px solid #337ab7;
+}
+.type{
+   font-size:20px; 
+	color: #fff;
+	margin-top: 120px;
+	margin-left: 25px;
+	
+  
+}
+
+.e-footer{
+    background-color: #337ab7;
+    color: #fff;
+/*
+    left: 0;
+    bottom: 0;
+    position: fixed;
+*/
+    width: 100%;
+}
+.e-footer a{
+    color: #fff;
+    font-weight: 100;
+}
+.e-footer a:hover{
+    text-decoration: underline;
+    color: #fff;
+    font-weight: 100;
+}
+

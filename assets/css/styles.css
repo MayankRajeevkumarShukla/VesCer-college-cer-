@@ -1,0 +1,88 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.main{
+    
+    margin: 0 auto;
+    margin-top: 20px;
+/*    margin-left: px;*/
+    margin-bottom: 0;
+    padding: 50px;
+    padding-left: 80px;
+    background: url(../../assets/images/certificate_inside_images/border1.jpeg) center no-repeat;
+    background-size: 104% 100%;
+    background-color:#fff;
+    width: 1244px;
+    height: 900px;
+}
+
+.newsletter{
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 0;
+    padding: 50px;
+    padding-left: 80px;
+    background: url(../../assets/images/certificate_inside_images/certi-newsletter.jpg) center no-repeat;
+    background-size: 104% 100%;
+    background-color:#fff;
+    width: 1244px;
+    height: 900px;
+    
+}
+
+.own{
+    margin-top:25px;
+    font-family:"Merriweather";
+    font-size:25px;
+    color:#002060;
+    text-align: center; 
+}
+.content{
+    margin-bottom: 6px;
+}
+.content3{
+    font-family: "roboto";
+    font-size:16px;
+    color:black;
+   
+  
+}
+.content4{
+    font-family: "roboto";
+    font-size:16px;
+    color:black;
+   
+  
+}
+.font-specifications{
+   font-family:"roboto";
+   font-size:20px;
+}
+
+.ves {
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-style: double;
+    border-width: 15px;
+    border-color: #FFD700;
+    padding: 50px;
+    padding-bottom: 0;
+    background-color:#fff;
+    width: 944px;
+    height: 691px;
+    
+}
+
+.tops {
+    margin-top: 10px;
+    font-family: "roboto";
+    font-size: 30px;
+    color: red;
+    font-weight: 300;
+}
+
+.font-specifications .content {
+    font-size: 25px;
+}
